@@ -13,6 +13,6 @@ NoSQLBooster4Mongo 清理程序(仅程序)
 
 6.运行时，一路按Enter建就行了，对于弹出的注册表文件选择是即可；
 
-7.如仍然有使用问题，请将运行结果截屏(文字/图片形式均可)发送至davidsmithgf@163.com
+7.如仍然有使用问题，请将运行结果截屏(文字/图片形式均可)反馈；
 
 程序仅供有洁癖的个人试用，以便卸载后无残留信息，如觉得nosqlbooster不错，请去[官方购买](https://nosqlbooster.com/purchase)。
