@@ -1,4 +1,4 @@
-NoSQLBooster4Mongo 清理程序(仅程序)
+# NoSQLBooster4Mongo 清理程序(仅程序)
 
 主要用于NoSQLBooster卸载后的各种残余文件、注册表等，顺带可以清理本地保存的试用信息。
 
